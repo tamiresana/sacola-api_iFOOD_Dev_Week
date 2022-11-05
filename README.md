@@ -1,7 +1,7 @@
 <h1>Sacola API</h1>
 <p>Sacola API para Servir uma Aplicação com Domínio de Delivery</p>
 
-<p>Projeto que aprendi durante a devweek do iFood ensinado pela excelente professora Camila aonde vou deixar o github do projeto original disponível no final.</p>
+<p>Projeto que aprendi durante a devweek do iFood ensinado pela excelente professora Camila, onde vou deixar o github do projeto original disponível no final.</p>
 
 <h3>Status do Projeto</h3>
 <p align="center"> Sacola API 💻 Em construção... </p>
@@ -41,4 +41,4 @@
 
 <h3>Autor</h3>
 
-<a> <sub><b>Camila Cavalcante</b></sub></a> <a href="https://github.com/cami-la/sacola-api_IFOOD_DEV_WEEK" title="github"></a>
+<a href="https://github.com/cami-la/sacola-api_IFOOD_DEV_WEEK" title="github">Camila Cavalcante</a>
